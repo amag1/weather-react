@@ -1,0 +1,38 @@
+#mainHeader, .header {
+    color:black;
+    font-family: sans-serif;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#card {
+    background-color: #AFEEEE;
+    border-radius: 20px;
+    min-width: 200px;
+    min-height: 150px;
+    margin: 15px auto;
+}
+
+.propName {
+    font-weight: bold;
+}
+
+.buttonStrip {
+    margin-bottom: 15px;
+}
+
+
+.cardContent {
+    font-size: 12pt;
+    display: flex;
+    justify-content: space-between;
+}
+
+#cardItem {
+    align-items: baseline;
+}
+
+.cardItem {
+    align-items: baseline;
+}
